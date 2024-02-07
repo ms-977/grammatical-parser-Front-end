@@ -1,0 +1,10 @@
+.edit-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.edit-page button {
+    margin-top: 4rem;
+}
